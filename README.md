@@ -1,2 +1,9 @@
-# Portfolio-Week-2-Challenge
-To built a functional Webpage that hosts my portfolio
+# Portfolio Week 2 challenge
+
+A simple Portfolio page made with CSS and HTML.
+
+## Usage
+To practice HTML and CSS
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
